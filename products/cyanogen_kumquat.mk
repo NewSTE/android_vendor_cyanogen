@@ -24,7 +24,7 @@ PRODUCT_PACKAGES += Torch
 
 
 # Release name and versioning
-PRODUCT_RELEASE_NAME := NS
+PRODUCT_RELEASE_NAME := XperiaU-ST25i
 PRODUCT_VERSION_DEVICE_SPECIFIC :=
 -include vendor/cyanogen/products/common_versions.mk
 
