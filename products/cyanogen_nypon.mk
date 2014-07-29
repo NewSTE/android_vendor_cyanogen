@@ -7,7 +7,7 @@ PRODUCT_MODEL := Xperia P
 
 
 # Inherit AOSP device configuration for nypon.
-$(call inherit-product, device/sony/kumquat/full_nypon.mk)
+$(call inherit-product, device/sony/nypon/full_nypon.mk)
 
 # Inherit some common cyanogenmod stuff.
 $(call inherit-product, vendor/cyanogen/products/common_full.mk)
